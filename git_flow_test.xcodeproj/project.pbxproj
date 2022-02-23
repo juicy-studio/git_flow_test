@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		C2FEA53827C5F31300480287 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2FEA53727C5F31300480287 /* main.swift */; };
 		C2FEA53F27C5F31C00480287 /* Protocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2FEA53E27C5F31C00480287 /* Protocol.swift */; };
-		C2FEA54527C5F6FE00480287 /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2FEA54427C5F6FE00480287 /* Person.swift */; };
+
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -28,7 +28,7 @@
 		C2FEA53427C5F31300480287 /* git_flow_test */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = git_flow_test; sourceTree = BUILT_PRODUCTS_DIR; };
 		C2FEA53727C5F31300480287 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		C2FEA53E27C5F31C00480287 /* Protocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Protocol.swift; sourceTree = "<group>"; };
-		C2FEA54427C5F6FE00480287 /* Person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
+
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,6 +45,7 @@
 		C2FEA52B27C5F31300480287 = {
 			isa = PBXGroup;
 			children = (
+				C2FEA54227C5F68000480287 /* Food.swift */,
 				C2FEA53627C5F31300480287 /* git_flow_test */,
 				C2FEA53527C5F31300480287 /* Products */,
 			);
@@ -129,6 +130,7 @@
 				C2FEA54527C5F6FE00480287 /* Person.swift in Sources */,
 				C2FEA53827C5F31300480287 /* main.swift in Sources */,
 				C2FEA53F27C5F31C00480287 /* Protocol.swift in Sources */,
+				C2FEA54327C5F68000480287 /* Food.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
